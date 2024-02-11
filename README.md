@@ -16,7 +16,7 @@ Pré requisto é saber a linguagem de programação R
 
 ### Installation
 
-Instale qualquer IDE que rode Python 3
+Instale qualquer IDE que rode R
 
 ```
 $ First step
