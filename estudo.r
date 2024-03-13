@@ -53,15 +53,6 @@ while(i <= 32){
   i <- i + 1
 }
 
-
-
-
-
-
-
-
-
-
 #medias de prisões por assalto, estupros e assasinatos das 
 #5 maiores populaçoes
 
@@ -135,10 +126,3 @@ while (contador <= 5){
   contador <- conrtador2
   
 }
-
-
-
-
-
-
-
